@@ -35,6 +35,8 @@
 📫 Cómo contactarme: amanda1758@gmail.com <br><br>
 📄 ¡Descárgate mi currículum!:[CV Amanda Gómez](https://drive.google.com/file/d/1vMSUTfELo_TE5xEM2A2NDEDegrXGL928/view?usp=drive_link)
 
+<br>
+<br>
 ###
 
 <h3 align="left">🛠Tecnologías</h3>
