@@ -22,7 +22,7 @@
 
 <h2 align="center">Hola, soy Amanda Gómez👋</h2>
 
-<hr>
+
 
 <h3 align="left">👩‍💻  Sobre mí</h3>
 
