@@ -2,7 +2,7 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXptanQ3ZnVtYWlkdXJibWx2czE3bDJ3a2ZxdGZlbXV0Z2YwZWZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-g%C3%B3mez-quero/" target="_blank">
