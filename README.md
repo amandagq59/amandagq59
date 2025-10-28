@@ -69,16 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥 Mi estadística:</h3>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandagq59/amandagq59/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandagq59/amandagq59/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandagq59/amandagq59/output/pacman-contribution-graph.svg">
-</picture>
-
-###
