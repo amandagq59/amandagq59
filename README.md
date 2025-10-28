@@ -19,9 +19,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amandagq59.amandagq59&"  />
 </div>
 
-###
 
-<h2 align="center">Hola, soy Amanda Gómez👋</h3>
+<h2 align="center">Hola, soy Amanda Gómez👋</h2>
 
 <hr>
 
