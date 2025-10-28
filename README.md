@@ -28,11 +28,11 @@
 <h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
-👩‍💻 Me he formado como Full Stack Developer, con el objetivo de desarrollar soluciones tecnológicas creativas y funcionales. Mi enfoque combina la lógica de la programación con habilidades interpersonales adquiridas en mi etapa anterior como educadora social, donde aprendí a trabajar en equipo, gestionar proyectos, resolver conflictos y comunicar de forma clara y efectiva. <br>
-💡 Me apasiona el aprendizaje continuo y los retos que implican salir de la zona de confort. Creo en la importancia de la tecnología como herramienta de transformación y quiero aportar mi compromiso, adaptabilidad y visión social al sector IT.<br>
-🌍 Anteriormente, he trabajado como educadora en diferentes contextos. Todas estas vivencias me han enseñado a ser resiliente, empática, adaptativa y orientada a resultados.
-🎯 Mi objetivo actual es crecer profesionalmente en el mundo tecnológico, aportando tanto mis competencias técnicas como humanas. Con muchas ganas de comenzar y aportar lo mejor de mí.
-📫 Cómo contactarme: amanda1758@gmail.com
+👩‍💻 Me he formado como Full Stack Developer, con el objetivo de desarrollar soluciones tecnológicas creativas y funcionales. Mi enfoque combina la lógica de la programación con habilidades interpersonales adquiridas en mi etapa anterior como educadora social, donde aprendí a trabajar en equipo, gestionar proyectos, resolver conflictos y comunicar de forma clara y efectiva. <br><br>
+💡 Me apasiona el aprendizaje continuo y los retos que implican salir de la zona de confort. Creo en la importancia de la tecnología como herramienta de transformación y quiero aportar mi compromiso, adaptabilidad y visión social al sector IT.<br><br>
+🌍 Anteriormente, he trabajado como educadora en diferentes contextos. Todas estas vivencias me han enseñado a ser resiliente, empática, adaptativa y orientada a resultados. <br><br>
+🎯 Mi objetivo actual es crecer profesionalmente en el mundo tecnológico, aportando tanto mis competencias técnicas como humanas. Con muchas ganas de comenzar y aportar lo mejor de mí.<br><br>
+📫 Cómo contactarme: amanda1758@gmail.com <br><br>
 📄 ¡Descárgate mi currículum!:[CV Amanda Gómez](https://drive.google.com/file/d/1vMSUTfELo_TE5xEM2A2NDEDegrXGL928/view?usp=drive_link)
 
 ###
