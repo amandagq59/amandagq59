@@ -32,7 +32,7 @@
 🌍 Anteriormente, he trabajado como educadora en diferentes contextos. Todas estas vivencias me han enseñado a ser resiliente, empática, adaptativa y orientada a resultados. <br><br>
 🎯 Mi objetivo actual es crecer profesionalmente en el mundo tecnológico, aportando tanto mis competencias técnicas como humanas. Con muchas ganas de comenzar y aportar lo mejor de mí.<br><br>
 📫 Cómo contactarme: amanda1758@gmail.com <br><br>
-📄 ¡Descárgate mi currículum!:[CV Amanda Gómez](https://drive.google.com/file/d/1vMSUTfELo_TE5xEM2A2NDEDegrXGL928/view?usp=drive_link)
+📄 ¡Descárgate mi currículum!:[CV Amanda Gómez](https://drive.google.com/file/d/1vMSUTfELo_TE5xEM2A2NDEDegrXGL928/view?usp=drive_link)  <br><br>
 💻 Portafolio: [Mi portafolio web](https://portafolio-amanda.vercel.app/)
 
 <br>
