@@ -33,6 +33,7 @@
 🎯 Mi objetivo actual es crecer profesionalmente en el mundo tecnológico, aportando tanto mis competencias técnicas como humanas. Con muchas ganas de comenzar y aportar lo mejor de mí.<br><br>
 📫 Cómo contactarme: amanda1758@gmail.com <br><br>
 📄 ¡Descárgate mi currículum!:[CV Amanda Gómez](https://drive.google.com/file/d/1vMSUTfELo_TE5xEM2A2NDEDegrXGL928/view?usp=drive_link)
+💻 Portafolio: [Mi portafolio web](https://portafolio-amanda.vercel.app/)
 
 <br>
 <br>
